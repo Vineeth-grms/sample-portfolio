@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    background-color: black;
+    color: #ffff;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: burlywood;
+    padding: 10px;
+    position: fixed;
+    width: 100%; 
+}
+header span{
+    width: 40%;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+nav a{
+    margin-right: 30px;
+    color: blueviolet;
+    text-transform: uppercase;
+    text-decoration: none;
+}
